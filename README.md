@@ -1,4 +1,4 @@
-![9628-2048x1116-vagabond-background-desktop-hd.jpg](..%2F..%2F..%2FUsers%2FAkuev%2FDownloads%2F9628-2048x1116-vagabond-background-desktop-hd.jpg)
+![9628-2048x1116-vagabond-background-desktop-hd.jpg](9628-2048x1116-vagabond-background-desktop-hd.jpg)
 ### _**Social network**_ 🤝
 [![Static Badge](https://img.shields.io/badge/VK-white?style=for-the-badge&logo=Vk&logoColor=black)](https://vk.com/antonakuev945)
 [![Static Badge](https://img.shields.io/badge/stepik-white?style=for-the-badge&logo=stepik&logoColor=black)](https://stepik.org/users/574258876/profile)
